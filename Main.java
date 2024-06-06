@@ -91,6 +91,6 @@ public class Main {
         adjacencyList.addEdge("Budapest(Hungary)", "Vienna(Austria)");
 
         bfs.search("Paris(France)");
-        //maaf bu seharusnya urutan yang benar itu paris, brussels, zurich, amsterdam, vienna, orague, hamburg, warsaw, budapest
+        //maaf bu seharusnya urutan yang benar itu paris, brussels, zurich, amsterdam, vienna, prague, hamburg, warsaw, budapest
     }
 }
